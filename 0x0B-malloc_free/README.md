@@ -15,7 +15,7 @@
 
 - On success, the _strdup function returns a pointer to the duplicated string. It returns NULL if insufficient memory was available
 
-- * FYI: The standard library provides a similar function: strdup. Run man strdup to learn more.
+- FYI: The standard library provides a similar function: strdup. Run man strdup to learn more.
 
 ### 2-str-concat.c - Write a function that concatenates two strings.
 - Prototype: char *str_concat(char *s1, char *s2);
